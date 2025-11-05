@@ -39,4 +39,4 @@ The system validates input, detects age & gender, removes background, and produc
 ## 🧩 Example Usage
 
 ```bash
-python disney_avatar_generator.py
+disney_avatar_generator.py
